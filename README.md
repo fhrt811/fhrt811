@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Mohd Faisal Ansari</h1>
-<h3 align="center">I'm Data Analyst and Machine Learning Enthusiast</h3>
+<h3 align="center">I'm a Data Analyst and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fhrt811&label=Profile%20views&color=0e75b6&style=flat" alt="fhrt811" /> </p>
 
